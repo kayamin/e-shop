@@ -58,3 +58,5 @@ gem 'devise'
 
 gem 'jquery-rails'
 gem 'bootstrap-sass'
+
+gem 'payjp'
